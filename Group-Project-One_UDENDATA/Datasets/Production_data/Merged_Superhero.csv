@@ -1,0 +1,32 @@
+,Date_Released,Publisher,Superhero_Name,Movie_Title,Rating,IMDB_Votes,Box_Office_Sales,Gender,Eye color,Race,Hair color,Height,Skin color,Alignment,Weight,rate,Inflation_Sales
+0,2008,DC,Batman,The Dark Knight,90,"2,029,721",533316061,Male,blue,Human,black,188,-,good,95,17.4,626113055.6
+1,2008,DC,Punisher,Punisher: War Zone,60,"56,730",7948159,Male,blue,Human,Black,183,-,good,90,17.4,9331138.666
+2,2008,Marvel,Iron Man,Iron Man,79,"842,429",318298180,Male,blue,Human,Black,198,-,good,191,17.4,373682063.3
+3,2008,Marvel,Hulk,The Incredible Hulk,68,"388,957",134518390,Male,green,Human,Green,244,green,good,630,17.4,157924589.9
+4,2009,Marvel,Wolverine,X-Men Origins: Wolverine,66,"431,892",179737340,Male,blue,Human,Black,160,-,good,135,17.8,211730586.5
+5,2010,Marvel,Iron Man,Iron Man 2,70,"642,092",312057433,Male,blue,Human,Black,198,-,good,191,15.9,361674564.8
+6,2011,Marvel,Ghost Rider,Spirit of Vengeance,43,"102,335",51774002,Male,red,Human,No Hair,188,-,good,99,12.4,58193978.25
+7,2011,DC,Green Lantern,Green Lantern,55,"250,387",116600000,Male,brown,Human,Brown,188,-,good,90,12.4,131058400
+8,2011,Marvel,Thor,Thor,70,"661,810",181015141,Male,blue,Non-Human,Blond,198,-,good,288,12.4,203461018.5
+9,2011,Marvel,Captain America,Captain America: The First Avenger,69,"641,472",176636816,Male,blue,Human,blond,188,-,good,108,12.4,198539781.2
+10,2012,DC,Batman,The Dark Knight Rises,84,"1,366,558",448130642,Male,blue,Human,black,188,-,good,95,10.1,493391836.8
+11,2012,Marvel,Spider-Man,The Amazing Spider-Man,70,"520,000",262030663,Male,hazel,Human,Brown,178,-,good,74,10.1,288495760
+12,2013,Marvel,Iron Man,Iron Man 3,72,"672,550",408992272,Male,blue,Human,Black,198,-,good,191,8.5,443756615.1
+13,2013,Marvel,Thor,Thor: The Dark World,70,"526,911",206360018,Male,blue,Non-Human,Blond,198,-,good,288,8.5,223900619.5
+14,2013,Marvel,Wolverine,The Wolverine,67,"395,575",132550960,Male,blue,Human,Black,160,-,good,135,8.5,143817791.6
+15,2014,DC,Superman,Man of Steel,71,"639,837",291021565,Male,blue,Non-Human,Black,191,-,good,101,6.8,310811031.4
+16,2014,Marvel,Spider-Man,The Amazing Spider-Man 2,66,"383,964",183277573,Male,hazel,Human,Brown,178,-,good,74,6.8,195740448
+17,2014,Marvel,Captain America,Captain America: The Winter Soldier,78,"646,011",228636083,Male,blue,Human,blond,188,-,good,108,6.8,244183336.6
+18,2015,Marvel,Ant-Man,Ant-Man,73,"482,910",138002223,Male,blue,Human,Blond,211,-,good,122,6.6,147110369.7
+19,2016,Marvel,Deadpool,Deadpool,80,"802,733",328674489,Male,brown,Human,No Hair,188,-,neutral,95,5.3,346094236.9
+20,2016,Marvel,Doctor Strange,Doctor Strange,75,"485,846",232630718,Male,grey,Human,Black,188,-,good,81,5.3,244960146.1
+21,2016,Marvel,Wolverine,Logan,81,"545,270",226276809,Male,blue,Human,Black,160,-,good,135,5.3,238269479.9
+22,2017,Marvel,Spider-Man,Spider-Man: Homecoming,75,"398,278",334166825,Male,hazel,Human,Brown,178,-,good,74,3.1,344525996.6
+23,2017,DC,Wonder Woman,Wonder Woman,75,"472,212",412400625,Female,blue,Human,Black,183,-,good,74,3.1,425185044.4
+24,2018,Marvel,Thor,Thor: Ragnarok,79,"439,344",314971245,Male,blue,Non-Human,Blond,198,-,good,288,0.7,317176043.7
+25,2018,Marvel,Black Panther,Black Panther,73,"486,841",501105037,Male,brown,Human,Black,183,-,good,90,0.7,504612772.3
+26,2018,Marvel,Ant-Man,Ant-Man and the Wasp,71,"204,018",216648740,Male,blue,Human,Blond,211,-,good,122,0.7,218165281.2
+27,2018,DC,Aquaman,Aquaman,72,"208,461",335061807,Male,blue,Non-Human,Blond,185,-,good,146,0.7,337407239.6
+28,2018,Marvel,Deadpool,Deadpool 2,78,"359,880",324591735,Male,brown,Human,No Hair,188,-,neutral,95,0.7,326863877.1
+29,2018,Marvel,Venom,Venom,68,"245,745",213515506,Male,blue,Non-Human,Strawberry Blond,191,-,bad,117,0.7,215010114.5
+30,2019,Marvel,Captain Marvel,Captain Marvel,69,"80,858",373880366,Female,blue,Human,Blond,180,-,good,74,0,373880366
