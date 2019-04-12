@@ -30,6 +30,7 @@ Data sets used found in the "_Datasets_" folder [here](/Datasets)
 - [Superhero API](https://superheroapi.com/)
 - [ComicVine API](https://comicvine.gamespot.com/api/)
 - [MARVEL API](https://developer.marvel.com/)
+- [OMDb API](http://www.omdbapi.com/)
 #### SOURCE URLs
 - [IMDB](https://www.imdb.com/list/ls038977111/)
 - [MARVEL Wiki](https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe_Wiki)
