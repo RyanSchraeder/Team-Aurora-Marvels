@@ -1,5 +1,5 @@
-## DU Data Viz
-## Correlation Between Superhero Traits and Box Office Sales
+## DU Data Viz - Team Aurora Marvels
+## Project One: Correlation Between Superhero Traits and Box Office Sales
 ####
 #####
 _Do certain superhero attributes translate into higher (lower) box office sales in the United States? Do certain superhero attributes_ _translate into higher (lower) box office sales in the international market?_
@@ -34,4 +34,5 @@ Data sets used found in the "_Datasets_" folder [here](/Datasets)
 #### SOURCE URLs
 - [IMDB](https://www.imdb.com/list/ls038977111/)
 - [MARVEL Wiki](https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe_Wiki)
+- [Box Office Mojo](https://www.boxofficemojo.com/)
 
