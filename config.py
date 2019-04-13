@@ -10,3 +10,5 @@ api_key_marvel = "17584d1c69d30e066654f4c90d3da208"
 # https://superheroapi.com/
 # https://comicvine.gamespot.com/api/
 # https://developer.marvel.com/
+
+gkey = "AIzaSyBaUl4F8SEdvPwccLcLwtUsxQsRqIJGE54"
